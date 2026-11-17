@@ -1,10 +1,10 @@
 # Hi, I'm Shubham Singh 👋
 
-### Network Engineer | Aspiring DevOps Engineer | Cloud & Automation
+### Devops Engineer | Cloud & Automation
 
-I am a Network Engineer expanding my skills in DevOps, cloud infrastructure, automation, and container orchestration.
+I am a Devops Engineer expanding my skills in DevOps, cloud infrastructure, automation, and container orchestration.
 
-My networking background helps me approach infrastructure problems with a troubleshooting mindset. I am building hands-on projects to strengthen my skills in cloud computing, Infrastructure as Code, CI/CD, Kubernetes, and monitoring.
+My background helps me approach infrastructure problems with a troubleshooting mindset. I am building hands-on projects to strengthen my skills in cloud computing, Infrastructure as Code, CI/CD, Kubernetes, and monitoring.
 
 ## 🛠️ Technical Skills
 
@@ -29,7 +29,7 @@ My networking background helps me approach infrastructure problems with a troubl
 
 ## 🎯 Career Goal
 
-To grow into a DevOps Engineer role where I can combine my networking experience with cloud infrastructure, automation, CI/CD, and reliability engineering.
+To grow into a DevOps Engineer role where I can combine my experience with cloud infrastructure, automation, CI/CD, and reliability engineering.
 
 ## 🤝 Connect With Me
 
